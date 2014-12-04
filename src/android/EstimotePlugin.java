@@ -13,7 +13,8 @@ import java.util.List;
 
 public class EstimotePlugin extends CordovaPlugin {
 
-  private static final String ESTIMOTE_PROXIMITY_UUID = "B9407F30-F5F8-466E-AFF9-25556B57FE6D";
+  //private static final String ESTIMOTE_PROXIMITY_UUID = "B9407F30-F5F8-466E-AFF9-25556B57FE6D";
+  private static final String ESTIMOTE_PROXIMITY_UUID = "2173E519-9155-4862-AB64-7953AB146156";
 
   private Region region;
 
